@@ -120,7 +120,6 @@ body {
     transition: -webkit-filter 0.3s;
     transition: filter 0.3s;
     transition: filter 0.3s, -webkit-filter 0.3s;
-	background-image:url("../img/dsn.jpg");
 }
 
 .canvas-container canvas {
